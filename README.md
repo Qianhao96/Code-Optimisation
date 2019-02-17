@@ -2,8 +2,8 @@
 Goal: reduce computational cost without change the output
 ==
 
-1. Arithmetic shift
-  &	Binary AND Operator copies a bit to the result if it exists in both operands.
+# 1. Arithmetic shift
+1.1 &	Binary AND Operator copies a bit to the result if it exists in both operands.
   
   |	Binary OR Operator copies a bit if it exists in either operand.
   
@@ -13,6 +13,6 @@ Goal: reduce computational cost without change the output
   
   <<	Binary Left Shift Operator. The left operands value is moved left by the number of bits specified by the right operand.
   
-  >>	Binary Right Shift Operator. The left operands value is moved right by the number of bits specified by the right operand.
+>  >>	Binary Right Shift Operator. The left operands value is moved right by the number of bits specified by the right operand.
   
 TO BE Continue....
