@@ -1,5 +1,6 @@
 # Code-Optimisation
 Goal: reduce computational cost without change the output
+==
 
 1. Arithmetic shift
   &	Binary AND Operator copies a bit to the result if it exists in both operands.
