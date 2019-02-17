@@ -14,4 +14,4 @@ Goal: reduce computational cost without change the output
   
   >>	Binary Right Shift Operator. The left operands value is moved right by the number of bits specified by the right operand.
   
-  
+TO BE Continue....
