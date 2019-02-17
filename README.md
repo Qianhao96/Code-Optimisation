@@ -13,3 +13,5 @@ Goal: reduce computational cost without change the output
   <<	Binary Left Shift Operator. The left operands value is moved left by the number of bits specified by the right operand.
   
   >>	Binary Right Shift Operator. The left operands value is moved right by the number of bits specified by the right operand.
+  
+  
